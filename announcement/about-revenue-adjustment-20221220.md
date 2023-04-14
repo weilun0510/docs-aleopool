@@ -1,3 +1,4 @@
-# Announcement on the adjustment for Aleo credits
+# 수익 조정에 관한 공지
 
-Due to the Aleo official node snarkos instability during December 12 to December 18,the data of Aleo pool's credits was affected by this, so the data would be adjusted during this period. now it's back to normal.
+12월 12일부터 12월 18일까지 Aleo 공식 노드 snarkos의 불안정성으로 인해 Aleo 풀의 크레딧 데이터가 영향을 받았습니다. 이 기간 동안 데이터가 조정될 예정입니다. 이제는 정상입니다.
+

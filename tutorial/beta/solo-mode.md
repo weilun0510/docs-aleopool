@@ -1,3 +1,3 @@
-# Solo Mode
+# 솔로 모드
 
-Contact us on Telegram: [Contact Now](https://t.me/Aleopool)
+텔레그램으로 문의하기: [지금 연락하세요](https://t.me/Aleopool)

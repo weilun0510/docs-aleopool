@@ -1,4 +1,5 @@
-# Alpha (Free)
+# 알파 (무료)
 
-* [Pool Mode](pool-mode.md)
-* [Solo Mode](solo-mode.md)
+* [풀 모드](pool-mode.md)
+* [솔로 모드](solo-mode.md)
+

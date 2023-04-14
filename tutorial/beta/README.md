@@ -1,4 +1,4 @@
-# Beta (Pro)
+# 베타(프로)
 
-* Pool Mode
-* [Solo Mode](solo-mode.md)
+* 수영장
+* [솔로 모드](solo-mode.md)

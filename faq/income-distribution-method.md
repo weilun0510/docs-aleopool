@@ -1,3 +1,4 @@
-# What is Aleo Pool payout method during Testnet 3?
+# Aleo Pool의 테스트넷 3 기간 동안의 지급 방식은 무엇인가요?
 
-Aleo Pool allocates rewards in PPLNS mode, and user contributions are accumulated according to their contribution points during the test period.If Aleo Pool passes the KYC after the mainnet is launched and thus obtains the corresponding rewards (testnet block reward + testnet block volume ranking reward(if there is ranking reward), all users participating in the testnet will get their share of rewards based on their contributions points during the Aleo Pool testnet.
+Aleo Pool은 PPLNS 모드로 보상을 할당하며, 사용자의 기여 포인트에 따라 기여도가 쌓입니다. 만약 Aleo Pool이 메인넷 출시 후 KYC를 통과하여 해당 보상(테스트넷 블록 보상 + 테스트넷 블록 거래량 순위 보상(순위 보상이 있는 경우))을 획득하면, Aleo Pool 테스트넷 기간 동안 참여한 모든 사용자는 Aleo Pool 테스트넷 기간 동안의 기여 포인트에 따라 보상을 분배받게 됩니다.
+

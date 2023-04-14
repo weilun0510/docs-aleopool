@@ -1,21 +1,22 @@
-# Aleo's progress of Testnet 3   25million Aleo Credits
+# Aleo의 Testnet 3 진행 상황 2500만 Aleo 크레딧
 
-## Phase 1 - Developers
+## 단계 1 - 개발자
 
-· Developers can start writing, deploying, and executing programs.
+· 개발자는 프로그램을 작성, 배포 및 실행할 수 있습니다.
 
-· The Aleo team bootstraps the network with genesis beacons.
+· Aleo 팀은 제네시스 비콘으로 네트워크를 부트스트랩합니다.
 
-## Phase 2 - Provers
+## 단계 2 - 증명자
 
-· Provers start solving coinbase puzzles (PoSW) to earn credits.
+· 증명자는 크레딧을 얻기 위해 코인베이스 퍼즐 (PoSW)을 해결하기 시작합니다.
 
-· The Aleo team kickstarts the bug bounty program for snarkOS and snarkVM.
+· Aleo 팀은 snarkOS 및 snarkVM의 버그 바운티 프로그램을 시작합니다.
 
-## Phase 3 - Validators
+## 단계 3 - 검증자
 
-· Validators start producing blocks and earning rewards.
+· 검증자는 블록을 생성하고 보상을 받기 시작합니다.
 
-· Provers with 1 million Aleo credits will be able to become validators.
+· 100만 Aleo 크레딧을 가진 증명자는 검증자가 될 수 있습니다.
 
-· The Aleo team will bootstrap the network for Phase 3 with AleoBFT.
+· Aleo 팀은 AleoBFT로 단계 3을 위한 네트워크를 부트스트랩합니다.
+
